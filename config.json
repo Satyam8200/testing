@@ -1,5 +1,10 @@
 {
   "AWS_ACCESS_KEY_ID" : "AKIA2E0A8F3B244C9986",
   "AWS_SECRET_ACCESS_KEY" : "wJalrXUtnFEMIK7MDENG/bPxRfiCYEXAMPLEKEY",
-  "AWS_DEFAULT_REGION" : "us-west-2"
+  "AWS_DEFAULT_REGION" : "us-west-2",
+  "api_key": "sfjklsfjsu47KKHDJYIKLkkjd",
+  "password": "SATYAM!@#$$*8200",
+  "secret": "347r98fsnsjvkxkc89rsfn",
+  "access_token": "4r78we89sfdbuvchxbjvfc",
+  "private_key": "your_private_key_here"
 }
